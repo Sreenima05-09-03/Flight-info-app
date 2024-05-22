@@ -2,9 +2,19 @@
 
 ---
 
-# ✈️ FlightInfoApp
+# ✈️ FlightInfoApp (FLIGHTSCRY)
 
-FlightInfoApp is a nifty little Android application designed to make your travel life easier! 🧳✨ Built with ❤️ using Kotlin and Android Studio, this app is your go-to for all things flight-related.
+FlightInfoApp is a nifty little Android application designed to make your travel life easier! 🧳✨ Built with ❤ using Kotlin and Android Studio, this app is your go-to for all things flight-related.
+THIS APP IS made to Develop an Android application to display a user’s flight itinerary using Backpack for skyscanner as a part of Skyscanner's Software Engineering virtual job simulation.
+
+Task Overview
+What you'll learn
+How to develop a proof of concept (PoC) for a mobile application.
+How to utilize Backpack, Skyscanner's custom UI library, to create a user interface.
+
+What you'll do
+Develop an Android application to display a user’s flight itinerary using Backpack.
+Create the user interface (UI) for Flightscry, Skyscanner's new mobile application.
 
 ## 🚀 Features
 
@@ -74,6 +84,4 @@ FlightInfoApp/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Feel free to sprinkle in more emojis or personalize the README further to reflect the spirit of your project!
